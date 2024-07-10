@@ -1,0 +1,1 @@
+/data/data/com.termux/files/home/workspace/Rust/rust-course/projetos/calculadora-simples/target/debug/calculadora-simples: /data/data/com.termux/files/home/workspace/Rust/rust-course/projetos/calculadora-simples/src/main.rs
